@@ -11,8 +11,8 @@ This script measures various performance metrics for a given API URL, including 
 No installation is required apart from Node.js. Simply clone this repository and run the script.
 
 ```bash
-git clone https://github.com/your-username/api-performance-monitor.git
-cd api-performance-monitor
+git clone https://github.com/abdullahwins/url-performance-monitor-tool.git
+cd url-performance-monitor-tool
 ```
 
 ## Usage
